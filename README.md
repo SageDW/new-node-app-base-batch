@@ -6,9 +6,9 @@ It generates a folder with all the necessary Node files and directories wherever
 
 Folders generated are:
 
-`public` -> contains 3 folders: <b>css</b>, <b>images</b> & <b>scripts</b><br>
-            `css`: contains <b>'styles.css'</b><br>
-            `images`: empty; generated for future use.<br>
+`public` -> contains 3 folders: <b>css</b>, <b>images</b> & <b>scripts</b>;<br>
+            `css`: contains <b>'styles.css'</b>;<br>
+            `images`: empty; generated for future use;<br>
             `scripts`: contains <b>'index.js'</b> for scripting & a copy of <b>jQuery 3.6.0</b> to be implemented easily.
 
 `views` -> contains 4 EJS templates: <b>'compose'</b>, <b>'contact'</b>, <b>'home'</b> & <b>'post'</b> for use ad libitum;<br>
