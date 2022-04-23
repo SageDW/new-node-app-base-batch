@@ -9,7 +9,7 @@ Folders generated are:
 `public` -> contains 3 folders: <b>css</b>, <b>images</b> & <b>scripts</b>;<br>
             `css`: contains <b>'styles.css'</b>;<br>
             `images`: empty; generated for future use;<br>
-            `scripts`: contains <b>'index.js'</b> for scripting & a copy of <b>jQuery 3.6.0</b> to be implemented easily.
+            `scripts`: contains <b>'index.js'</b> for scripting.
 
 `views` -> contains 4 EJS templates: <b>'compose'</b>, <b>'contact'</b>, <b>'home'</b> & <b>'post'</b> for use ad libitum;<br>
 also contains the `partials` folder with 3 more EJS templates -> <b>'footer'</b>, <b>'header'</b> & <b>'navbar'</b>.
